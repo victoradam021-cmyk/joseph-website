@@ -14,7 +14,7 @@
     }
 
     body {
-      background: #ffffff37;
+      background: #0a0a0a;
       color: #ffffff;
       line-height: 1.6;
     }
@@ -23,7 +23,7 @@
       display: flex;
       justify-content: space-between;
       padding: 20px 40px;
-      border-bottom: 1px solid #000000;
+      border-bottom: 1px solid #222;
     }
 
     header h1 {
@@ -67,7 +67,7 @@
     }
 
     .hero p {
-      color: #bbbbbb;
+      color: #bbb;
       font-size: 18px;
       margin-bottom: 30px;
     }
@@ -126,7 +126,7 @@
     }
 
     .socials a:hover {
-      color: #ffffff7b;
+      color: #fff;
     }
   </style>
 </head>
@@ -156,7 +156,7 @@
     </div>
 
   <div class="hero-image">
-  <img src="image/studio.jpg=" alt="music production studio">
+  <img src="./profile.png" alt="Profile">
     </div>
 
   </div>
